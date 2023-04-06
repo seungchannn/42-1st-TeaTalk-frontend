@@ -12,7 +12,7 @@
 
 2. 구현항목 및 담당
 
-	- nav, main, productlist (강승찬)
+	- nav, main, productlist (강승찬) : Product Manager
         
 	- login, signup, footer, payment (이종혁)
         
